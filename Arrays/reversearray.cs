@@ -1,0 +1,1 @@
+//Reversing an array means changing the position of each number in the array to its corresponding position from the end. For example, if a number is at position 1, its new position will be at Array.length-1, and similarly, if a number is at position 2, its new position will be at Array.length – 2, and so on
